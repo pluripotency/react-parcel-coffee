@@ -9,6 +9,10 @@ vm =
     url: '/'
     component: require '../components/component_examples'
   ,
+    name: 'Hook'
+    url: '/hook'
+    component: require '../components/hook'
+  ,
     name: 'CardList'
     url: '/cardlist'
     component: require '../components/card_list'
